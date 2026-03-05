@@ -1,6 +1,6 @@
 # Some Basic problem solving in javascript language
 
-1. Fibonacci Series
+## Fibonacci Series
 
 let n = 10;
 let a = 0;
@@ -24,7 +24,7 @@ Next number = previous two numbers ka sum
 
 
 
-2. Sum of Total Digit in a Number
+## Sum of Total Digit in a Number
 
 let num = 1234;
 let sum = 0;
@@ -47,7 +47,7 @@ digits ko sum me add karte hain
 
 
 
-3. Palindrome Number
+## Palindrome Number
 
 let num = 121;
 let original = num;
@@ -73,7 +73,7 @@ then Palindrome
 
 
 
-4. Triangle Pattern
+## Triangle Pattern
 
 let rows = 5;
 
@@ -96,7 +96,7 @@ inner loop → stars print karta hai
 
 
 
-5. Factorial
+## Factorial
 
 let num = 5;
 let factorial = 1;
